@@ -1,0 +1,26 @@
+# This is a generated file; do not edit or check into version control.
+cloud_firestore=C:\\Users\\umesh\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\cloud_firestore-0.14.0+2\\
+cloud_firestore_web=C:\\Users\\umesh\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\cloud_firestore_web-0.2.0+1\\
+firebase_auth=C:\\Users\\umesh\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\firebase_auth-0.18.0+1\\
+firebase_auth_web=C:\\Users\\umesh\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\firebase_auth_web-0.3.0+1\\
+firebase_core=C:\\Users\\umesh\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\firebase_core-0.5.0\\
+firebase_core_web=C:\\Users\\umesh\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\firebase_core_web-0.2.0\\
+firebase_messaging=C:\\Users\\umesh\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\firebase_messaging-7.0.0\\
+firebase_storage=C:\\Users\\umesh\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\firebase_storage-4.0.0\\
+flutter_local_notifications=C:\\Users\\umesh\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\flutter_local_notifications-1.4.4+4\\
+flutter_plugin_android_lifecycle=C:\\Users\\umesh\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\flutter_plugin_android_lifecycle-1.0.8\\
+fluttertoast=C:\\Users\\umesh\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\fluttertoast-4.0.1\\
+google_sign_in=C:\\Users\\umesh\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\google_sign_in-4.5.3\\
+google_sign_in_web=C:\\Users\\umesh\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\google_sign_in_web-0.9.1+1\\
+image_picker=C:\\Users\\umesh\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\image_picker-0.6.7+7\\
+jitsi_meet=C:\\Users\\umesh\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\jitsi_meet-0.2.5\\
+path_provider=C:\\Users\\umesh\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\path_provider-1.6.14\\
+path_provider_linux=C:\\Users\\umesh\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\path_provider_linux-0.0.1+2\\
+path_provider_macos=C:\\Users\\umesh\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\path_provider_macos-0.0.4+3\\
+path_provider_windows=C:\\Users\\umesh\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\path_provider_windows-0.0.4+3\\
+shared_preferences=C:\\Users\\umesh\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\shared_preferences-0.5.12+4\\
+shared_preferences_linux=C:\\Users\\umesh\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\shared_preferences_linux-0.0.2+4\\
+shared_preferences_macos=C:\\Users\\umesh\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\shared_preferences_macos-0.0.1+11\\
+shared_preferences_web=C:\\Users\\umesh\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\shared_preferences_web-0.1.2+7\\
+shared_preferences_windows=C:\\Users\\umesh\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\shared_preferences_windows-0.0.2+3\\
+sqflite=C:\\Users\\umesh\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\sqflite-1.3.1+1\\
